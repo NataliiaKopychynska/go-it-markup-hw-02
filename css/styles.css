@@ -6,6 +6,10 @@ body {
 }
 
 /* header */
+.header {
+  border-bottom: 1px #e7e9fc;
+}
+
 .logo {
   font-family: 'Raleway' sans-serif;
   text-decoration: none;
