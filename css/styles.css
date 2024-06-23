@@ -5,6 +5,9 @@ body {
   background-color: #ffffff;
 }
 
+ul {
+  list-style: none;
+}
 /* header */
 
 .logo {
@@ -102,9 +105,6 @@ body {
 }
 
 /* section 2 */
-.our-work-section {
-  background-color: #f4f4fd;
-}
 
 .h-two {
   font-size: 36px;
